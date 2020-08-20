@@ -8,7 +8,8 @@ INTEGRANTES: Erick Vargas, Dennis Nuñez
 
 conexion con hamachi
 
-https://github.com/erickvargas10/PruebaServicioSobreRedes/issues/10#issue-682399891
+![48acf5f1-83ed-4a76-8f1c-5cbac71f57ed](https://user-images.githubusercontent.com/38590809/90717818-197f1a80-e276-11ea-87d4-120fc2619db0.jpg)
+
 
 
 Visualizacion de la base de datos en MariaDB
