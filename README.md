@@ -26,8 +26,7 @@ ejecutar el contenedor de mariaDB
 
 Configuracion del contenedor de mariaDB
 
-![90715457-e89be700-e26f-11ea-87ec-b09a879fe7cb](https://user-images.githubusercontent.com/38590809/90718240-06207f00-e277-11ea-9537-10af7c888deb.png)
-
+![90715741-ca82b680-e270-11ea-8159-d8dfccce5eee](https://user-images.githubusercontent.com/38590809/90718308-3c5dfe80-e277-11ea-857d-46e4e8ef2b85.png)
 
 
 Instalacion del contenedor de mariadb
