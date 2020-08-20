@@ -44,8 +44,12 @@ creacion de la base de datos y tablas
 Ejecutar contenedor de postgres
 
 
+![90714515-6f02f980-e26d-11ea-8cb6-a021d18c790c](https://user-images.githubusercontent.com/38590809/90718108-c063b680-e276-11ea-901f-88c5d337dabf.png)
+
 
 configuracion del contenedor
+
+![90714076-7aa1f080-e26c-11ea-9185-0e9c4424584f](https://user-images.githubusercontent.com/38590809/90718062-a6c26f00-e276-11ea-8908-acd898795c5c.png)
 
 
 
