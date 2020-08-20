@@ -7,8 +7,8 @@ INTEGRANTES: Erick Vargas, Dennis Nuñez
 
 
 conexion con hamachi
-https://github.com/erickvargas10/PruebaServicioSobreRedes/issues/10
 
+https://github.com/erickvargas10/PruebaServicioSobreRedes/issues/10#issue-682399891
 
 
 Visualizacion de la base de datos en MariaDB
