@@ -26,18 +26,27 @@ ejecutar el contenedor de mariaDB
 
 Configuracion del contenedor de mariaDB
 
+![90715457-e89be700-e26f-11ea-87ec-b09a879fe7cb](https://user-images.githubusercontent.com/38590809/90718240-06207f00-e277-11ea-9537-10af7c888deb.png)
 
 
 
 Instalacion del contenedor de mariadb
+
+![90715457-e89be700-e26f-11ea-87ec-b09a879fe7cb](https://user-images.githubusercontent.com/38590809/90718240-06207f00-e277-11ea-9537-10af7c888deb.png)
 
 
 
 comprobacion de la creacion de la base de datos en postgres
 
 
+![90715247-4d0a7680-e26f-11ea-91db-9f4f61cc0b61](https://user-images.githubusercontent.com/38590809/90718216-f99c2680-e276-11ea-8b99-ae4abc6c63ed.jpg)
+
+
 
 creacion de la base de datos y tablas
+
+![90714895-55ae7d00-e26e-11ea-967d-cb090731033e](https://user-images.githubusercontent.com/38590809/90718174-e426fc80-e276-11ea-8fc3-fc44efc62615.jpg)
+
 
 
 
