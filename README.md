@@ -14,13 +14,18 @@ conexion con hamachi
 
 Visualizacion de la base de datos en MariaDB
 
+![834155dc-5d7b-40d4-a9d5-533b9914592f](https://user-images.githubusercontent.com/38590809/90717888-44696e80-e276-11ea-9884-2d97ecd0bfc1.jpg)
+
+
 
 
 ejecutar el contenedor de mariaDB
 
+![e9165847-db08-407b-8ee6-95756656b60e](https://user-images.githubusercontent.com/38590809/90717967-77abfd80-e276-11ea-96e3-7ed9112958d4.jpg)
 
 
 Configuracion del contenedor de mariaDB
+
 
 
 
@@ -45,4 +50,6 @@ configuracion del contenedor
 
 
 instalar contenedor de postgresql
+
+![90713475-0581eb80-e26b-11ea-9b45-743176be4af5](https://user-images.githubusercontent.com/38590809/90718024-94e0cc00-e276-11ea-9f66-954761173513.png)
 
